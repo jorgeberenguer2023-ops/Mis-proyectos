@@ -1,0 +1,6 @@
+openpyxl
+pypdf
+python-docx
+pytesseract
+pypdfium2
+Pillow

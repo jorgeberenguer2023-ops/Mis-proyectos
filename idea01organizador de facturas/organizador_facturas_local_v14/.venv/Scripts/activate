@@ -42,10 +42,10 @@ deactivate nondestructive
 if [ "$OSTYPE" = "cygwin" ] || [ "$OSTYPE" = "msys" ] ; then
     # transform D:\path\to\venv to /d/path/to/venv on MSYS
     # and to /cygdrive/d/path/to/venv on Cygwin
-    export VIRTUAL_ENV=$(cygpath "C:\Users\Jorge Berenguer\Downloads\organizador_facturas_local_v14\.venv")
+    export VIRTUAL_ENV=$(cygpath "C:\Users\Jorge Berenguer\Desktop\MIS PROYECTOS\idea01organizador de facturas\organizador_facturas_local_v14\.venv")
 else
     # use the path as-is
-    export VIRTUAL_ENV="C:\Users\Jorge Berenguer\Downloads\organizador_facturas_local_v14\.venv"
+    export VIRTUAL_ENV="C:\Users\Jorge Berenguer\Desktop\MIS PROYECTOS\idea01organizador de facturas\organizador_facturas_local_v14\.venv"
 fi
 
 _OLD_VIRTUAL_PATH="$PATH"

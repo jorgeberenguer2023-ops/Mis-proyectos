@@ -1,0 +1,76 @@
+('C:\\Users\\Jorge '
+ 'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\OrganizadorFacturasV19.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\build\\OrganizadorFacturasV19\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Jorge '
+   'Berenguer\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('organizador_facturas',
+   'C:\\Users\\Jorge '
+   'Berenguer\\Downloads\\Organizador_Facturas_V19_REVISION_Y_CIF\\Organizador_Facturas_V19_REVISION_Y_CIF\\organizador_facturas.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

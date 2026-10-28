@@ -1,0 +1,9 @@
+openpyxl
+pypdf
+python-docx
+pytesseract
+pypdfium2
+Pillow
+pdfplumber
+reportlab
+pyinstaller

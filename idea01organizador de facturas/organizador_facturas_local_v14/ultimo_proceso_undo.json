@@ -1,0 +1,34 @@
+{
+  "operations": [
+    {
+      "original": "C:/Users/Jorge Berenguer/Desktop/Nueva carpeta (3)/aprende\\005-Fact.limpieza.03.26.pdf",
+      "action": "move",
+      "destination": "C:\\Users\\Jorge Berenguer\\Desktop\\documenrel\\\\PH0005\\\\005-Año 2026\\\\005-FACTURAS 2026\\005-Fact.limpieza.03.26.pdf",
+      "new_name": "005-Fact.limpieza.03.26.pdf"
+    },
+    {
+      "original": "C:/Users/Jorge Berenguer/Desktop/Nueva carpeta (3)/aprende\\005-Fact.luz.01.26.1.pdf",
+      "action": "move",
+      "destination": "C:\\Users\\Jorge Berenguer\\Desktop\\Nueva carpeta (3)\\aprende\\Comunidad no encontrada\\005-Fact.luz.01.26.1.pdf",
+      "new_name": "005-Fact.luz.01.26.1.pdf"
+    },
+    {
+      "original": "C:/Users/Jorge Berenguer/Desktop/Nueva carpeta (3)/aprende\\005-Fact.luz.01.26.pdf",
+      "action": "move",
+      "destination": "C:\\Users\\Jorge Berenguer\\Desktop\\Nueva carpeta (3)\\aprende\\Comunidad no encontrada\\005-Fact.luz.01.26.pdf",
+      "new_name": "005-Fact.luz.01.26.pdf"
+    },
+    {
+      "original": "C:/Users/Jorge Berenguer/Desktop/Nueva carpeta (3)/aprende\\005-Fact.Oca.01.26.PDF",
+      "action": "move",
+      "destination": "C:\\Users\\Jorge Berenguer\\Desktop\\Nueva carpeta (3)\\aprende\\Comunidad no encontrada\\005-Fact.Oca.01.26.PDF",
+      "new_name": "005-Fact.Oca.01.26.PDF"
+    },
+    {
+      "original": null,
+      "action": "delete",
+      "destination": "C:\\Users\\Jorge Berenguer\\Desktop\\Nueva carpeta (3)\\aprende\\Movimientos\\movimientos20260924_203014.docx",
+      "new_name": "movimientos20260924_203014.docx"
+    }
+  ]
+}
